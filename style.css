@@ -1,0 +1,48 @@
+@import url("https://fonts.googleapis.com/css2?family=Otomanopee+One&display=swap");
+
+.App {
+  text-align: center;
+}
+
+input {
+  margin-top: 7rem;
+  padding: 2rem;
+  width: 60%;
+  border: 2px solid black;
+  border-radius: 10px;
+}
+
+body {
+  background-color: skyblue;
+  margin: 0;
+}
+
+nav {
+  font-size: 2rem;
+  font-weight: bold;
+  background-color: blue;
+  padding: 1rem;
+  border-radius: 20px;
+  color: white;
+}
+
+.para {
+  max-width: 800px;
+  margin: auto;
+  padding: 1.5rem;
+  font-size: 1.2rem;
+  margin-bottom: 0;
+}
+
+p {
+  font-family: "Courgette", cursive;
+  font-size: 1.7rem;
+  margin: 10px auto;
+  margin-top: 0;
+  color: black;
+}
+
+img {
+  width: 350px;
+  height: auto;
+}
